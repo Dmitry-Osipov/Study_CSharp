@@ -6,14 +6,14 @@ Console.Write("Today is Friday");
 
 
 //Console.ReadLine("Input : "); // str
-/*
+
 Console.Write("Input number: ");
 int user_number = Convert.ToInt32(Console.ReadLine()); // int
 Console.WriteLine("Your number is - " + user_number);
 Console.WriteLine($"Your number is - {user_number}");
-*/
 
-/*
+
+
 // Задача 1:
 // Напишите прошрамму, которая принимает число и выдаёт его квадрат
 // 1. Узнайте у пользователя число
@@ -23,9 +23,9 @@ Console.Write("Input number: "); // 1 шаг
 int user_number = Convert.ToInt32(Console.ReadLine()); // 1 шаг
 int user_number_sqr = user_number * user_number; // 2 шаг
 Console.WriteLine(user_number_sqr); // 3 шаг
-*/
 
-/*
+
+
 // Задача 2: 
 // Напишите программу, которая на вход принимает два числа и проверяет, 
 // является ли первое число квадратом второго.
@@ -41,9 +41,9 @@ else
 {
     Console.WriteLine($"{number_2} IS NOT square of {number_1}");
 }
-*/
 
-/*
+
+
 // Задача 3:
 // Напишите программу, которая на вход принимает одно число (N), 
 // а на выходе показывает все целые числа в промежутке от -N до N.
@@ -56,7 +56,7 @@ while (count <= user_number)
     Console.WriteLine(count);
     count += 1;
 }
-*/
+
 
 
 // Задача 4:

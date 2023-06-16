@@ -64,7 +64,7 @@ void crat()
         }
         else
         {
-            Console.WriteLine("Число НЕ кратно 7 и 23 одновременно");
+            Console.WriteLine("Число не кратно 7 и 23 одновременно");
         }
     }
 }
